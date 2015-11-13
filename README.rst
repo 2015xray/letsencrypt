@@ -1,6 +1,6 @@
 .. notice for github users
 
-Disclaimer
+Disclaimer :免责声明
 ==========
 
 This is a **DEVELOPER PREVIEW** intended for developers and testers only.
